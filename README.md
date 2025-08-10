@@ -43,9 +43,15 @@ Edit
    cd catalogo-interativo-mobile
 Instale as dependências:
 
+bash
+Copy
+Edit
 npm install
 Inicie o projeto (sempre com limpeza de cache):
 
+bash
+Copy
+Edit
 npx expo start -c
 Abra no seu emulador ou celular usando o QR code exibido.
 
